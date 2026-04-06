@@ -13,7 +13,7 @@ Policy PDF  →  Azure OCR (chunked)  →  TextNodes
                                            ↓
                           Gemini Embeddings + BM25 → Hybrid Index
                                                            ↓
-Hospital Bill  →  PyMuPDF + Gemini parse  →  Line items
+Hospital Bill  →  Azure OCR (invoice)  →  Line items
                                                     ↓
                                     QueryFusion Retriever (vector + BM25)
                                                     ↓
