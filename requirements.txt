@@ -1,0 +1,36 @@
+# UI
+streamlit
+
+# Data
+pandas
+
+# Environment
+python-dotenv
+
+# PDF processing
+pypdf
+pymupdf
+
+# ML / filtering
+scikit-learn
+
+# LlamaIndex core
+llama-index
+llama-index-core
+
+# LlamaIndex integrations
+llama-index-embeddings-google
+llama-index-llms-google-genai
+llama-index-retrievers-bm25
+llama-index-vector-stores-chroma
+
+# Google AI
+google-generativeai
+google-genai
+
+# Azure
+azure-ai-documentintelligence
+azure-core
+
+# Vector store
+chromadb
