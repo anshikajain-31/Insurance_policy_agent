@@ -1,4 +1,4 @@
-# 🏥 ClaimIQ — Automated Insurance Claims Adjudicator
+# 🏥 InsightClain Engine — Automated Insurance Claims Adjudicator
 
 An AI-powered system that reads your insurance policy PDF and hospital bill, then automatically adjudicates each line item — telling you exactly what's covered, what you owe, and which clause in the policy backs up the decision.
 
